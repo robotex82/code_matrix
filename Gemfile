@@ -36,3 +36,18 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+
+# Server
+gem 'thin'
+
+# Active admin
+gem 'activeadmin', :git => 'git://github.com/gregbell/active_admin.git'
+
+# HTTParty
+gem 'httparty'
+
+# Crack
+gem 'crack'
+
+# Acts as markup
+gem 'acts_as_markup'
